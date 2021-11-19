@@ -1,2 +1,2 @@
 # MNIST
-Classificação de imagens de números manuscritos com rede convolucional
+Classificação de imagens do dataset MNIST com rede convolucional
